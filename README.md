@@ -2,6 +2,7 @@
 > Esse projeto foi um backend feito para treino de um projeto spring + angular
 
 
+
 * Acesso ao backend sempre feito por meio de JWT (autenticação/autorização);
 
 * Dtos para trafego de dados entrei front e backend;
