@@ -15,3 +15,5 @@
 
 * BeansValidator para validação das entidades;
 
+* URL: https://medcareapp.herokuapp.com (Usuário: atendimento) (senha: atendimento) - Hospedado no heroku (demora um pouco o primeiro acesso)
+
