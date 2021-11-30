@@ -1,7 +1,6 @@
 # medcare-backend
+> Esse projeto foi um backend feito para treino de um projeto spring + angular;
 
-
-* Esse projeto foi um backend feito para treino de um projeto spring + angular;
 
 # detalhes
 
