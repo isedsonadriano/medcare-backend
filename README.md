@@ -1,7 +1,7 @@
 # medcare-backend
 > Esse projeto foi um backend feito para treino de um projeto spring + angular
 
-## Aspectos abordados
+### Detalhes
 
 * Acesso ao backend sempre feito por meio de JWT (autenticação/autorização);
 
