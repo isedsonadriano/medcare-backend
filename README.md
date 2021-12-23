@@ -9,11 +9,13 @@
 
 * conversão (mapstruct) dos dtos/entidades com modelMapper;
 
-* Swagger para descrever a api;
+* Swagger para descrever a api (https://atendimentoapp.herokuapp.com/swagger-ui.html#);
 
 * BeansValidator para validação das entidades;
 
 * BeansValidator para validação das entidades;
 
 * URL: https://medcareapp.herokuapp.com (Usuário: atendimento) (senha: atendimento) - Hospedado no heroku (demora um pouco o primeiro acesso)
+
+
 
