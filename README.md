@@ -5,7 +5,7 @@
 
 * Acesso ao backend sempre feito por meio de JWT (autenticação/autorização);
 
-* Dtos para trafego de dados entrei front e backend;
+* Dtos para trafego de dados entre front e backend;
 
 * conversão (mapstruct) dos dtos/entidades com modelMapper;
 
